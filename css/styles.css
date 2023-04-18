@@ -36,6 +36,10 @@ a{
     color: black;
 }
 
+a:hover{
+    color: #CD4631;
+}
+
 nav a {
     color: black;
     font-weight: 600;
@@ -278,10 +282,6 @@ body {
     display: flex;
     justify-content: space-around;
     align-items: center;
-}
-
-.menu-portfolio:hover {
-    color: #CD4631;
 }
 
 /* ============= PAGINA CONTACTO ============= */
