@@ -280,6 +280,10 @@ body {
     align-items: center;
 }
 
+.menu-portfolio:hover {
+    color: #CD4631;
+}
+
 /* ============= PAGINA CONTACTO ============= */
 
 .seccion-contacto {
